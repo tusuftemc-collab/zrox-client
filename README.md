@@ -7,7 +7,5 @@ Requirements
 - Java 21
 - Fabric Loader 0.18.x
 
-Notes
-- Gradle wrapper files are included.
-- Import as a Gradle project in your IDE (or use the wrapper from CLI).
+
 
